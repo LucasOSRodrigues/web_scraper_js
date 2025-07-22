@@ -1,0 +1,19 @@
+{
+  "name": "web_scraper_js",
+  "version": "1.0.0",
+  "description": "web scraper com NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasOSRodrigues/web_scraper_js.git"
+  },
+  "author": "Lucas O. S. Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasOSRodrigues/web_scraper_js/issues"
+  },
+  "homepage": "https://github.com/LucasOSRodrigues/web_scraper_js#readme"
+}
